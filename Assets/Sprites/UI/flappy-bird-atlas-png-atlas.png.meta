@@ -1,0 +1,317 @@
+fileFormatVersion: 2
+guid: 65ac07fe2ad0db648848110d16ab7903
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_16
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 852
+        width: 192
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d3a9c720d89f247adff291daba5053
+      internalID: 1520436132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_0
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 852
+        width: 184
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c785009f8074f34f8c5313599620db2
+      internalID: -1748931818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_1
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 944
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ee5f3a703127aa4a88bcf9276f8d13b
+      internalID: 373088112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_2
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 912
+        width: 80
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b6b3979a51335d40b6e919e2db98029
+      internalID: -1467821300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: flappy-bird-atlas-png-atlas_3
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 730
+        width: 104
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f9fe114aeba854eba71a6f3771bcad
+      internalID: 1615250079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 808366b74df310b4fbe85f7bf218092f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":100.0,"y":80.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":1,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      flappy-bird-atlas-png-atlas_0: -1748931818
+      flappy-bird-atlas-png-atlas_1: 373088112
+      flappy-bird-atlas-png-atlas_10: 2003934224
+      flappy-bird-atlas-png-atlas_11: 1125024105
+      flappy-bird-atlas-png-atlas_12: -65893142
+      flappy-bird-atlas-png-atlas_13: 1150717333
+      flappy-bird-atlas-png-atlas_14: -755379659
+      flappy-bird-atlas-png-atlas_15: 844275141
+      flappy-bird-atlas-png-atlas_16: 1520436132
+      flappy-bird-atlas-png-atlas_17: 238207891
+      flappy-bird-atlas-png-atlas_18: -1402538347
+      flappy-bird-atlas-png-atlas_19: -1852847502
+      flappy-bird-atlas-png-atlas_2: -1467821300
+      flappy-bird-atlas-png-atlas_20: -324016928
+      flappy-bird-atlas-png-atlas_21: -1341512409
+      flappy-bird-atlas-png-atlas_22: -468999513
+      flappy-bird-atlas-png-atlas_23: 250324598
+      flappy-bird-atlas-png-atlas_24: 2108167074
+      flappy-bird-atlas-png-atlas_25: 25892507
+      flappy-bird-atlas-png-atlas_26: 653783881
+      flappy-bird-atlas-png-atlas_27: 26503219
+      flappy-bird-atlas-png-atlas_28: 1924345840
+      flappy-bird-atlas-png-atlas_29: 1001411697
+      flappy-bird-atlas-png-atlas_3: 1615250079
+      flappy-bird-atlas-png-atlas_30: -1905468170
+      flappy-bird-atlas-png-atlas_31: 610859874
+      flappy-bird-atlas-png-atlas_32: -1826649388
+      flappy-bird-atlas-png-atlas_33: 1395668923
+      flappy-bird-atlas-png-atlas_34: -1494760614
+      flappy-bird-atlas-png-atlas_35: -1462540433
+      flappy-bird-atlas-png-atlas_36: 2092599459
+      flappy-bird-atlas-png-atlas_37: 2019404148
+      flappy-bird-atlas-png-atlas_38: 606079561
+      flappy-bird-atlas-png-atlas_39: -480380856
+      flappy-bird-atlas-png-atlas_4: 1543975332
+      flappy-bird-atlas-png-atlas_40: 1010385823
+      flappy-bird-atlas-png-atlas_41: -235979394
+      flappy-bird-atlas-png-atlas_42: 1823132518
+      flappy-bird-atlas-png-atlas_43: 498227585
+      flappy-bird-atlas-png-atlas_44: -1110401787
+      flappy-bird-atlas-png-atlas_45: 1144327262
+      flappy-bird-atlas-png-atlas_46: 131507517
+      flappy-bird-atlas-png-atlas_47: 1935484519
+      flappy-bird-atlas-png-atlas_48: 2082137201
+      flappy-bird-atlas-png-atlas_49: 1196367315
+      flappy-bird-atlas-png-atlas_5: 863055483
+      flappy-bird-atlas-png-atlas_50: 12560370
+      flappy-bird-atlas-png-atlas_51: -1250342500
+      flappy-bird-atlas-png-atlas_52: -684715773
+      flappy-bird-atlas-png-atlas_53: -266498583
+      flappy-bird-atlas-png-atlas_54: -1608163212
+      flappy-bird-atlas-png-atlas_55: 940708476
+      flappy-bird-atlas-png-atlas_56: 255061710
+      flappy-bird-atlas-png-atlas_57: 550593116
+      flappy-bird-atlas-png-atlas_58: -628068422
+      flappy-bird-atlas-png-atlas_59: -1971502088
+      flappy-bird-atlas-png-atlas_6: -1890505420
+      flappy-bird-atlas-png-atlas_60: -1728277487
+      flappy-bird-atlas-png-atlas_61: 1519967362
+      flappy-bird-atlas-png-atlas_62: -2123238354
+      flappy-bird-atlas-png-atlas_63: -1115525946
+      flappy-bird-atlas-png-atlas_64: -1306728025
+      flappy-bird-atlas-png-atlas_65: -1497352115
+      flappy-bird-atlas-png-atlas_66: 965767844
+      flappy-bird-atlas-png-atlas_67: -2115100449
+      flappy-bird-atlas-png-atlas_68: 485234913
+      flappy-bird-atlas-png-atlas_69: 1609737687
+      flappy-bird-atlas-png-atlas_7: 874140228
+      flappy-bird-atlas-png-atlas_70: 1908334707
+      flappy-bird-atlas-png-atlas_71: 1873878907
+      flappy-bird-atlas-png-atlas_72: 771196971
+      flappy-bird-atlas-png-atlas_73: -757786073
+      flappy-bird-atlas-png-atlas_74: -388807882
+      flappy-bird-atlas-png-atlas_8: -924384600
+      flappy-bird-atlas-png-atlas_9: -25801957
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
